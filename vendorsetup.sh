@@ -1,1 +1,2 @@
 add_lunch_combo lineage_ford-userdebug
+add_lunch_combo lineage_ford-eng
